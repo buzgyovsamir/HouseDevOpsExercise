@@ -356,3 +356,4 @@ C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Rentin
 C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.pdb
 C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.genruntimeconfig.cache
 C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\ref\HouseRentingSystem.Tests.dll
+C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.sourcelink.json

@@ -283,3 +283,5 @@ C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Rentin
 C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.pdb
 C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.genruntimeconfig.cache
 C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\ref\HouseRentingSystem.Web.dll
+C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.sourcelink.json
+C:\Users\user\Desktop\08-Exercise-CI-CD-GitHub-Actions-Resources\04-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
