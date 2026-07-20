@@ -3,14 +3,15 @@ pipeline {
 
     stages {
 
-        stage('Restore') {
+        stage('Checkout') {
             steps {
-                bat 'dotnet restore'
+                checkout scm
             }
         }
 
         stage('Build') {
             steps {
+                bat 'dotnet restore'
                 bat 'dotnet build'
             }
         }
